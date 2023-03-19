@@ -18,3 +18,4 @@ function majorityElementChecker(arr)
             }
             document.write(" No Majority element");
     }
+majorityElementChecker()
